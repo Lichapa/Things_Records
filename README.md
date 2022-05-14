@@ -14,7 +14,7 @@ This project is made as part of the Microverse curriculum for module 4- Ruby and
 - PostgreSQL
 
 
-## `Getting Started`
+## `How to get Started`
 
 To get a local copy of this project:
 
